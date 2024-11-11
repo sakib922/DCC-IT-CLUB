@@ -1,0 +1,16 @@
+*{
+    font-family: 'popins', sans-serif;
+    background: rgb(18, 21, 24);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+html{
+    font-size: 62.5%;
+}
+h3{
+    font-size: 1.8rem;
+    font-weight: 400;
+    z-index: 1;
+}
